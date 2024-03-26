@@ -1,2 +1,2 @@
 # ETH-Proof-Beginner
-# This Solidity program is a 
+ This Solidity program is a 
