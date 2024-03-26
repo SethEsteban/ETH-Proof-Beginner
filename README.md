@@ -9,9 +9,9 @@
  To start this program, you can use Remix, an online IDE (remix.ethereum.org)
  From there click the "Start COding Button". Name and save your file name with .sol as your extensions, then copy and paste the code below:
 
- pragma solidity 0.8.18;
-
- contract MyToken {
+```solidity
+pragma solidity 0.8.18;
+contract MyToken {
 
     // public variables here
     string public tokenName = "META";
@@ -36,7 +36,8 @@
     
     }
 }
- 
+
+```
 
 ## Authors
 Seth Esteban
