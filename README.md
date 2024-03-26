@@ -7,7 +7,7 @@
  ## Getting Started
  ### Executing Program
  To start this program, you can use Remix, an online IDE (remix.ethereum.org)
- From there click the "Start COding Button". Name and save your file name with .sol as your extensions, then copy and paste the code below:
+ From there click the "Start Coding Button". Name and save your file name with .sol as your extensions, then copy and paste the code below:
 
 ```solidity
 pragma solidity 0.8.18;
@@ -38,6 +38,7 @@ contract MyToken {
 }
 
 ```
+Once done, click the Solidity Compiler on the left side, and click Compile (Your FileName).sol. Next, Just below that click Deploy & run transactions button, click deploy, then just below click the arrow with the name of your contract and address in it. To mint tokens, copy the given address and paste it on mint, add desired value and click transact. The same procedure is done for burning tokens. To see the number of tokens, click totalSupply. For balances, paste the given address and click call.
 
 ## Authors
 Seth Esteban
